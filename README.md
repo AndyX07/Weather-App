@@ -3,7 +3,7 @@
 Weather App created using React JS and OpenWeatherMap API
 
 Preview Website: <br/>
-https://andyx07.github.io/To-Do-List-App/
+andyweatherapp.netlify.app
 
 ## Setup
 Run Program:
