@@ -1,6 +1,6 @@
 # Weather App
 
-Weather App created using React JS and OpenWeatherMap API
+Weather App created using React JS, OpenWeatherMap API and AXIOS API
 
 Preview Website: <br/>
 https://andyweatherapp.netlify.app/
