@@ -10,6 +10,7 @@ https://andyweatherapp.netlify.app/
 ## Setup
 Run Program:
 ```
+npm install
 npm start
 ```
 
